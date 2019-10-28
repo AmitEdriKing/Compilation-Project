@@ -1,0 +1,18 @@
+Students ids:
+1. 315793794
+2. 310471362
+
+Student name:
+1. Amit Edri
+2. Uri Robinov
+
+Operating system:
+Windows10 - 64Bit
+
+Development enviroment:
+Visual Studio 10
+
+Notes:
+
+2.run with debugging.(F5).
+
